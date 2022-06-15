@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\bin\Debug\net6.0\Area-R.exe
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\bin\Debug\net6.0\Area-R.deps.json
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\bin\Debug\net6.0\Area-R.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\bin\Debug\net6.0\Area-R.dll
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\bin\Debug\net6.0\Area-R.pdb
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.dll
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\refint\Area-R.dll
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.pdb
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\Area-R.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\Area-R\Area-R\obj\Debug\net6.0\ref\Area-R.dll
